@@ -1,13 +1,1 @@
-Visiting Node:  1
-Level of Node 0: 0
-Level of Node 1: 0
-Level of Node 2: 1
-Level of Node 3: 1
-Level of Node 4: 0
-Level of Node 5: 0
-Level of Node 6: 0
-Level of Node 7: 0
-Level of Node 8: 0
-Level of Node 9: 0
-Level of Node 10: 1
-Level of Node 11: 0
+Number of connected components number:3
