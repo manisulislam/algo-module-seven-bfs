@@ -1,1 +1,1 @@
-Number of connected components number:3
+Cycle detection
