@@ -21,7 +21,7 @@ bool dfs(int u, int p=-1){
         if(visited[v]==true) return true;
         cycleExist=cycleExist|dfs(v,u);
     }
-    return true;
+    return cycleExist;
 
 }
 int main(){
